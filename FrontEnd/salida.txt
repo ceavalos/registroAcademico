@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 667A-94C1
+
+ Directory of C:\Users\User\Desktop\Proyectos\RegistroAcademico\FrontEnd
+
+16/09/2022  14:08    <DIR>          .
+16/09/2022  14:08    <DIR>          ..
+16/09/2022  14:08                 0 salida.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  107,668,938,752 bytes free
